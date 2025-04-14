@@ -1,6 +1,8 @@
 //47.53333 21.63333
 //47.53333 21.644821
 
+document.getElementById("kordinatak").innerHTML=`<img src=loading.gif>`
+
 let latitude = 47.53333
 let longitude = 21.63333
 
